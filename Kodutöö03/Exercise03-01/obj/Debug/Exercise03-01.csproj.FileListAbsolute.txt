@@ -1,0 +1,7 @@
+C:\Users\Kai\Desktop\Kodutöö03\Exercise03-01\bin\Debug\Exercise03-01.exe.config
+C:\Users\Kai\Desktop\Kodutöö03\Exercise03-01\bin\Debug\Exercise03-01.exe
+C:\Users\Kai\Desktop\Kodutöö03\Exercise03-01\bin\Debug\Exercise03-01.pdb
+C:\Users\Kai\Desktop\Kodutöö03\Exercise03-01\obj\Debug\Exercise03-01.csprojResolveAssemblyReference.cache
+C:\Users\Kai\Desktop\Kodutöö03\Exercise03-01\obj\Debug\Exercise03-01.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\Kodutöö03\Exercise03-01\obj\Debug\Exercise03-01.exe
+C:\Users\Kai\Desktop\Kodutöö03\Exercise03-01\obj\Debug\Exercise03-01.pdb
