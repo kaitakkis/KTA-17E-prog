@@ -1,0 +1,7 @@
+C:\Users\Kai\Desktop\Tunnikontroll\Tunnikontroll\Allahindluse programm\bin\Debug\Allahindluse programm.exe.config
+C:\Users\Kai\Desktop\Tunnikontroll\Tunnikontroll\Allahindluse programm\bin\Debug\Allahindluse programm.exe
+C:\Users\Kai\Desktop\Tunnikontroll\Tunnikontroll\Allahindluse programm\bin\Debug\Allahindluse programm.pdb
+C:\Users\Kai\Desktop\Tunnikontroll\Tunnikontroll\Allahindluse programm\obj\Debug\Allahindluse programm.csprojResolveAssemblyReference.cache
+C:\Users\Kai\Desktop\Tunnikontroll\Tunnikontroll\Allahindluse programm\obj\Debug\Allahindluse programm.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\Tunnikontroll\Tunnikontroll\Allahindluse programm\obj\Debug\Allahindluse programm.exe
+C:\Users\Kai\Desktop\Tunnikontroll\Tunnikontroll\Allahindluse programm\obj\Debug\Allahindluse programm.pdb
